@@ -1,0 +1,27 @@
+[
+    {
+        "name": "PlayStation 5",
+        "price": 499.99,
+        "imageUrl": "https://oechsle.vteximg.com.br/arquivos/ids/16912487-1000-1000/image-bf05215bc89a48758ff11134e45b23f2.jpg"
+    },
+    {
+        "name": "Xbox Series X",
+        "price": 499.99,
+        "imageUrl": "https://hiraoka.com.pe/media/catalog/product/1/2/127625_7.jpg"
+    },
+    {
+        "name": "Nintendo Switch",
+        "price": 299.99,
+        "imageUrl": "https://files.refurbed.com/ii/nintendo-switch-2019-1624273716.jpg"
+    },
+    {
+        "name": "PlayStation 4",
+        "price": 299.99,
+        "imageUrl": "https://m.media-amazon.com/images/I/41A5YRynOAL._SL1000_.jpg"
+    },
+    {
+        "name": "Xbox One",
+        "price": 299.99,
+        "imageUrl": "https://m.media-amazon.com/images/I/51U4mmDxThL._SL1200_.jpg"
+    }
+]
